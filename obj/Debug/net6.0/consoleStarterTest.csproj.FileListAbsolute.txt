@@ -1,0 +1,14 @@
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\consoleStarterTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\consoleStarterTest.AssemblyInfoInputs.cache
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\consoleStarterTest.AssemblyInfo.cs
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\consoleStarterTest.csproj.CoreCompileInputs.cache
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\bin\Debug\net6.0\consoleStarterTest.exe
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\bin\Debug\net6.0\consoleStarterTest.deps.json
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\bin\Debug\net6.0\consoleStarterTest.runtimeconfig.json
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\bin\Debug\net6.0\consoleStarterTest.dll
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\bin\Debug\net6.0\consoleStarterTest.pdb
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\consoleStarterTest.dll
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\refint\consoleStarterTest.dll
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\consoleStarterTest.pdb
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\consoleStarterTest.genruntimeconfig.cache
+C:\Users\espen\source\repos\consoleStarterTest\consoleStarterTest\obj\Debug\net6.0\ref\consoleStarterTest.dll
